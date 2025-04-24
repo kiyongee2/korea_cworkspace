@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\cworks\\Choices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\CoffeeMachine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|solutionrelative:Choices\\CoffeeMachine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\CoffeeMachine2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|solutionrelative:Choices\\CoffeeMachine2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\SwitchEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|solutionrelative:Choices\\SwitchEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -15,28 +23,28 @@
       "RelativeMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|solutionrelative:Choices\\IfEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\CoffeeMachine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|solutionrelative:Choices\\CoffeeMachine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\WhileBreak.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|solutionrelative:Choices\\WhileBreak.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\WhileEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|solutionrelative:Choices\\WhileEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\LeapYear.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|solutionrelative:Choices\\LeapYear.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\IfElseIf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|solutionrelative:Choices\\IfElseIf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\LeafYear.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|solutionrelative:Choices\\LeafYear.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\WhileEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|solutionrelative:Choices\\WhileEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\Seat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|solutionrelative:Choices\\Seat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\IfEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|solutionrelative:Choices\\IfEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|C:\\cworks\\Choices\\Choices\\WhileBreak.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A09084E8-247A-475F-B863-4FCCFA5776CA}|Choices\\Choices.vcxproj|solutionrelative:Choices\\WhileBreak.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,24 +54,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "IfEx.c",
+              "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\IfEx.c",
+              "RelativeDocumentMoniker": "Choices\\IfEx.c",
+              "ToolTip": "C:\\cworks\\Choices\\Choices\\IfEx.c",
+              "RelativeToolTip": "Choices\\IfEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-22T10:11:42.289Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoffeeMachine2.c",
+              "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\CoffeeMachine2.c",
+              "RelativeDocumentMoniker": "Choices\\CoffeeMachine2.c",
+              "ToolTip": "C:\\cworks\\Choices\\Choices\\CoffeeMachine2.c",
+              "RelativeToolTip": "Choices\\CoffeeMachine2.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAA0wDMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-24T11:55:49.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Seat.c",
+              "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\Seat.c",
+              "RelativeDocumentMoniker": "Choices\\Seat.c",
+              "ToolTip": "C:\\cworks\\Choices\\Choices\\Seat.c",
+              "RelativeToolTip": "Choices\\Seat.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-24T10:10:33.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SwitchEx2.c",
               "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\SwitchEx2.c",
               "RelativeDocumentMoniker": "Choices\\SwitchEx2.c",
               "ToolTip": "C:\\cworks\\Choices\\Choices\\SwitchEx2.c",
               "RelativeToolTip": "Choices\\SwitchEx2.c",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-22T12:41:54.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SwitchEx1.c",
               "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\SwitchEx1.c",
               "RelativeDocumentMoniker": "Choices\\SwitchEx1.c",
@@ -76,20 +124,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CoffeeMachine.c",
               "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\CoffeeMachine.c",
               "RelativeDocumentMoniker": "Choices\\CoffeeMachine.c",
               "ToolTip": "C:\\cworks\\Choices\\Choices\\CoffeeMachine.c",
               "RelativeToolTip": "Choices\\CoffeeMachine.c",
-              "ViewState": "AgIAABMAAAAAAAAAAAAswCoAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wBcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-22T12:01:46.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "WhileBreak.c",
               "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\WhileBreak.c",
               "RelativeDocumentMoniker": "Choices\\WhileBreak.c",
@@ -97,12 +145,11 @@
               "RelativeToolTip": "Choices\\WhileBreak.c",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-22T11:41:39.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T11:41:39.034Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "WhileEx1.c",
               "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\WhileEx1.c",
               "RelativeDocumentMoniker": "Choices\\WhileEx1.c",
@@ -128,20 +175,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LeafYear.c",
-              "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\LeafYear.c",
-              "RelativeDocumentMoniker": "Choices\\LeafYear.c",
-              "ToolTip": "C:\\cworks\\Choices\\Choices\\LeafYear.c",
-              "RelativeToolTip": "Choices\\LeafYear.c",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBoAAAADAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "LeapYear.c",
+              "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\LeapYear.c",
+              "RelativeDocumentMoniker": "Choices\\LeapYear.c",
+              "ToolTip": "C:\\cworks\\Choices\\Choices\\LeapYear.c",
+              "RelativeToolTip": "Choices\\LeapYear.c",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-22T10:37:07.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IfEx2.c",
               "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\IfEx2.c",
               "RelativeDocumentMoniker": "Choices\\IfEx2.c",
@@ -150,19 +197,6 @@
               "ViewState": "AgIAABQAAAAAAAAAAAAswCsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-22T10:24:01.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IfEx.c",
-              "DocumentMoniker": "C:\\cworks\\Choices\\Choices\\IfEx.c",
-              "RelativeDocumentMoniker": "Choices\\IfEx.c",
-              "ToolTip": "C:\\cworks\\Choices\\Choices\\IfEx.c",
-              "RelativeToolTip": "Choices\\IfEx.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-22T10:11:42.289Z",
               "EditorCaption": ""
             }
           ]
