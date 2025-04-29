@@ -128,7 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CoffeeMachine.c" />
-    <ClCompile Include="CoffeeMachine2.c" />
     <ClCompile Include="IfElseIf.c" />
     <ClCompile Include="IfEx.c" />
     <ClCompile Include="IfEx2.c" />
