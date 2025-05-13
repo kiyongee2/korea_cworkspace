@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\cworks\\Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\ArrayOddTotal.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayOddTotal.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\ArrayCalc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayCalc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\ArrayChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\Array2DString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\Array2DString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\Array2D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\Array2D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\ArrayTest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayTest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -19,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayCalc2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\ArrayCalc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayCalc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\ArrayDel.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayDel.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -33,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\ArrayInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\ArrayChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\ArrayChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0314E85-50F9-4538-BD65-DBFA10CE077D}|Arrays\\Arrays.vcxproj|C:\\cworks\\Arrays\\Arrays\\MemberInfo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -55,6 +67,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ArrayOddTotal.c",
+              "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayOddTotal.c",
+              "RelativeDocumentMoniker": "Arrays\\ArrayOddTotal.c",
+              "ToolTip": "C:\\cworks\\Arrays\\Arrays\\ArrayOddTotal.c",
+              "RelativeToolTip": "Arrays\\ArrayOddTotal.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-13T11:50:35.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Array2DString.c",
+              "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\Array2DString.c",
+              "RelativeDocumentMoniker": "Arrays\\Array2DString.c",
+              "ToolTip": "C:\\cworks\\Arrays\\Arrays\\Array2DString.c",
+              "RelativeToolTip": "Arrays\\Array2DString.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-13T11:29:48.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Array2D.c",
+              "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\Array2D.c",
+              "RelativeDocumentMoniker": "Arrays\\Array2D.c",
+              "ToolTip": "C:\\cworks\\Arrays\\Arrays\\Array2D.c",
+              "RelativeToolTip": "Arrays\\Array2D.c",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-13T10:46:16.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ArrayTest.c",
               "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayTest.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayTest.c",
@@ -67,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ArraySwap.c",
               "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArraySwap.c",
               "RelativeDocumentMoniker": "Arrays\\ArraySwap.c",
@@ -75,12 +126,11 @@
               "RelativeToolTip": "Arrays\\ArraySwap.c",
               "ViewState": "AgIAAAwAAAAAAAAAAAAowB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-01T11:20:38.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T11:20:38.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ArrayCopy.c",
               "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayCopy.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayCopy.c",
@@ -88,12 +138,11 @@
               "RelativeToolTip": "Arrays\\ArrayCopy.c",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-01T11:00:30.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T11:00:30.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ArrayCalc2.c",
               "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayCalc2.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayCalc2.c",
@@ -101,25 +150,24 @@
               "RelativeToolTip": "Arrays\\ArrayCalc2.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-01T10:22:14.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T10:22:14.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ArrayCalc.c",
               "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayCalc.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayCalc.c",
               "ToolTip": "C:\\cworks\\Arrays\\Arrays\\ArrayCalc.c",
               "RelativeToolTip": "Arrays\\ArrayCalc.c",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-01T10:07:42.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ArrayDel.c",
               "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayDel.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayDel.c",
@@ -127,12 +175,11 @@
               "RelativeToolTip": "Arrays\\ArrayDel.c",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-29T12:42:16.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T12:42:16.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "MemberInfo.c",
               "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\MemberInfo.c",
               "RelativeDocumentMoniker": "Arrays\\MemberInfo.c",
@@ -144,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ArrayString.c",
               "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayString.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayString.c",
@@ -152,12 +199,11 @@
               "RelativeToolTip": "Arrays\\ArrayString.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-29T11:49:14.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T11:49:14.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "ArrayChar.c",
               "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayChar.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayChar.c",
@@ -170,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ArrayInt.c",
               "DocumentMoniker": "C:\\cworks\\Arrays\\Arrays\\ArrayInt.c",
               "RelativeDocumentMoniker": "Arrays\\ArrayInt.c",
@@ -178,8 +224,7 @@
               "RelativeToolTip": "Arrays\\ArrayInt.c",
               "ViewState": "AgIAABgAAAAAAAAAAAAywCkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-29T11:16:11.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T11:16:11.539Z"
             }
           ]
         }
