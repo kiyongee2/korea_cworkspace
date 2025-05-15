@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\Pointer2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4344D3DF-03AF-4AE5-921C-85AE2FCCB08D}|Pointer2\\Pointer2.vcxproj|C:\\cworks\\Pointer2\\Pointer2\\TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4344D3DF-03AF-4AE5-921C-85AE2FCCB08D}|Pointer2\\Pointer2.vcxproj|solutionrelative:Pointer2\\TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TypingGame.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer2\\Pointer2\\TypingGame.c",
+              "RelativeDocumentMoniker": "Pointer2\\TypingGame.c",
+              "ToolTip": "C:\\cworks\\Pointer2\\Pointer2\\TypingGame.c*",
+              "RelativeToolTip": "Pointer2\\TypingGame.c*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwC4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-15T12:48:45.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
