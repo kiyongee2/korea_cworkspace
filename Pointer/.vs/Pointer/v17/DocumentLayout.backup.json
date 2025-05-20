@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\cworks\\Pointer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2E68FCCD-E277-4E8B-9AB4-B1690422E0FE}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\Test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E68FCCD-E277-4E8B-9AB4-B1690422E0FE}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\Test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E68FCCD-E277-4E8B-9AB4-B1690422E0FE}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E68FCCD-E277-4E8B-9AB4-B1690422E0FE}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E68FCCD-E277-4E8B-9AB4-B1690422E0FE}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\calcSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E68FCCD-E277-4E8B-9AB4-B1690422E0FE}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\calcSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E68FCCD-E277-4E8B-9AB4-B1690422E0FE}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\CallByRef2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E68FCCD-E277-4E8B-9AB4-B1690422E0FE}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\CallByRef2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E68FCCD-E277-4E8B-9AB4-B1690422E0FE}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2E68FCCD-E277-4E8B-9AB4-B1690422E0FE}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -18,11 +34,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\Test.c",
+              "RelativeDocumentMoniker": "Pointer\\Test.c",
+              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\Test.c*",
+              "RelativeToolTip": "Pointer\\Test.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-20T10:49:38.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "swap.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\swap.c",
+              "RelativeDocumentMoniker": "Pointer\\swap.c",
+              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\swap.c",
+              "RelativeToolTip": "Pointer\\swap.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-20T10:31:44.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CallByRef2.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\CallByRef2.c",
+              "RelativeDocumentMoniker": "Pointer\\CallByRef2.c",
+              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\CallByRef2.c",
+              "RelativeToolTip": "Pointer\\CallByRef2.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvwwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-20T10:30:31.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "calcSum.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\calcSum.c",
+              "RelativeDocumentMoniker": "Pointer\\calcSum.c",
+              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\calcSum.c",
+              "RelativeToolTip": "Pointer\\calcSum.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-20T10:16:48.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PointerTest.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\PointerTest.c",
               "RelativeDocumentMoniker": "Pointer\\PointerTest.c",
@@ -30,18 +98,17 @@
               "RelativeToolTip": "Pointer\\PointerTest.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-15T12:47:42.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T12:47:42.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "TypingGame.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\TypingGame.c",
               "RelativeDocumentMoniker": "Pointer\\TypingGame.c",
-              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\TypingGame.c*",
-              "RelativeToolTip": "Pointer\\TypingGame.c*",
-              "ViewState": "AgIAACMAAAAAAAAAAAAuwC0AAAAGAAAAAAAAAA==",
+              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\TypingGame.c",
+              "RelativeToolTip": "Pointer\\TypingGame.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-15T12:17:10.873Z",
               "EditorCaption": ""

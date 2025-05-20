@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\cworks\\Functions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{330E5383-3AD1-41EB-916E-3749360AC27D}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\GuessNumber.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{330E5383-3AD1-41EB-916E-3749360AC27D}|Functions\\Functions.vcxproj|solutionrelative:Functions\\GuessNumber.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{330E5383-3AD1-41EB-916E-3749360AC27D}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\StringFunctions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{330E5383-3AD1-41EB-916E-3749360AC27D}|Functions\\Functions.vcxproj|solutionrelative:Functions\\StringFunctions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330E5383-3AD1-41EB-916E-3749360AC27D}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\Math2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{330E5383-3AD1-41EB-916E-3749360AC27D}|Functions\\Functions.vcxproj|solutionrelative:Functions\\Math2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330E5383-3AD1-41EB-916E-3749360AC27D}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\MathEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{330E5383-3AD1-41EB-916E-3749360AC27D}|Functions\\Functions.vcxproj|solutionrelative:Functions\\MathEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{330E5383-3AD1-41EB-916E-3749360AC27D}|Functions\\Functions.vcxproj|C:\\cworks\\Functions\\Functions\\RandEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -23,19 +31,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GuessNumber.c",
-              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\GuessNumber.c",
-              "RelativeDocumentMoniker": "Functions\\GuessNumber.c",
-              "ToolTip": "C:\\cworks\\Functions\\Functions\\GuessNumber.c*",
-              "RelativeToolTip": "Functions\\GuessNumber.c*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Title": "StringFunctions.c",
+              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\StringFunctions.c",
+              "RelativeDocumentMoniker": "Functions\\StringFunctions.c",
+              "ToolTip": "C:\\cworks\\Functions\\Functions\\StringFunctions.c*",
+              "RelativeToolTip": "Functions\\StringFunctions.c*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-13T10:21:44.984Z",
+              "WhenOpened": "2025-05-20T11:24:57.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Math2.c",
+              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\Math2.c",
+              "RelativeDocumentMoniker": "Functions\\Math2.c",
+              "ToolTip": "C:\\cworks\\Functions\\Functions\\Math2.c",
+              "RelativeToolTip": "Functions\\Math2.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-20T11:04:24.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathEx.c",
+              "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\MathEx.c",
+              "RelativeDocumentMoniker": "Functions\\MathEx.c",
+              "ToolTip": "C:\\cworks\\Functions\\Functions\\MathEx.c",
+              "RelativeToolTip": "Functions\\MathEx.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-20T11:02:55.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "RandEx.c",
               "DocumentMoniker": "C:\\cworks\\Functions\\Functions\\RandEx.c",
               "RelativeDocumentMoniker": "Functions\\RandEx.c",
