@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Functions\\StringFunctions.c",
               "ToolTip": "C:\\cworks\\Functions\\Functions\\StringFunctions.c",
               "RelativeToolTip": "Functions\\StringFunctions.c",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-20T11:24:57.488Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Functions\\Math2.c",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-20T11:04:24.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T11:04:24.555Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Functions\\MathEx.c",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-20T11:02:55.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T11:02:55.266Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Functions\\RandEx.c",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-08T12:46:38.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T12:46:38.793Z"
             }
           ]
         }
