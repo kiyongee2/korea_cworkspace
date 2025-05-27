@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\c1_1430_kjh\\workspace\\banking\\",
+  "WorkspaceRootPath": "C:\\cworks\\banking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{026DD00F-B555-4185-84AF-370AFAB1EAF9}|banking\\banking.vcxproj|D:\\c1_1430_kjh\\workspace\\banking\\banking\\bankMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{026DD00F-B555-4185-84AF-370AFAB1EAF9}|banking\\banking.vcxproj|C:\\cworks\\banking\\banking\\bankMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{026DD00F-B555-4185-84AF-370AFAB1EAF9}|banking\\banking.vcxproj|solutionrelative:banking\\bankMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "bankMain.c",
-              "DocumentMoniker": "D:\\c1_1430_kjh\\workspace\\banking\\banking\\bankMain.c",
+              "DocumentMoniker": "C:\\cworks\\banking\\banking\\bankMain.c",
               "RelativeDocumentMoniker": "banking\\bankMain.c",
-              "ToolTip": "D:\\c1_1430_kjh\\workspace\\banking\\banking\\bankMain.c",
+              "ToolTip": "C:\\cworks\\banking\\banking\\bankMain.c",
               "RelativeToolTip": "banking\\bankMain.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-27T11:38:28.438Z",
               "EditorCaption": ""

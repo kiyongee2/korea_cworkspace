@@ -141,7 +141,9 @@ int main()
 		default:
 			printf("잘못된 입력입니다. 다시 선택하세요\n"); break;
 		}
-	}
+	}//while 닫기
+
+	system("pause"); //콘솔창 닫힘 문제 해결
 
 	return 0;
 }
