@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\cworks\\Pointer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2E68FCCD-E277-4E8B-9AB4-B1690422E0FE}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\strtokEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E68FCCD-E277-4E8B-9AB4-B1690422E0FE}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\strtokEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E68FCCD-E277-4E8B-9AB4-B1690422E0FE}|Pointer\\Pointer.vcxproj|C:\\cworks\\Pointer\\Pointer\\randCoin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2E68FCCD-E277-4E8B-9AB4-B1690422E0FE}|Pointer\\Pointer.vcxproj|solutionrelative:Pointer\\randCoin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "strtokEx.c",
+              "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\strtokEx.c",
+              "RelativeDocumentMoniker": "Pointer\\strtokEx.c",
+              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\strtokEx.c",
+              "RelativeToolTip": "Pointer\\strtokEx.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-27T10:07:45.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "randCoin.c",
               "DocumentMoniker": "C:\\cworks\\Pointer\\Pointer\\randCoin.c",
               "RelativeDocumentMoniker": "Pointer\\randCoin.c",
-              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\randCoin.c*",
-              "RelativeToolTip": "Pointer\\randCoin.c*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAADAAAAAAAAAA==",
+              "ToolTip": "C:\\cworks\\Pointer\\Pointer\\randCoin.c",
+              "RelativeToolTip": "Pointer\\randCoin.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-22T11:07:15.405Z",
               "EditorCaption": ""
