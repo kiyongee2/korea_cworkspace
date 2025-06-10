@@ -45,13 +45,13 @@ int main()
 				temp = a[j];
 				a[j] = a[j + 1];
 				a[j + 1] = temp;
+				sw = 1; //교환있음
 			}
-			sw = 1; //교환있음
+			
 		}
-	}
-
-	if (!sw) {
-		printf("교환없음\n");
+		if (!sw) {
+			break; //교환 없으면 종료
+		}
 	}
 
 	//출력
